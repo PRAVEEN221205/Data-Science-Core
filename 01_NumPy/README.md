@@ -80,4 +80,4 @@ Includes:
 
 ---
 
-Detailed practical implementation is available in `NumPy_Fundamentals.ipynb`.
+Detailed practical implementation is available in `Numpy_Fundamentals.ipynb`.
