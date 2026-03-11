@@ -96,7 +96,9 @@ cd Data-Science-Core
 ## Author
 
 **Praveen**
+
 GitHub: (https://github.com/PRAVEEN221205)
+
 LinkedIn: www.linkedin.com/in/praveenkumarreddy-tippireddy-346223294
 
 ---
