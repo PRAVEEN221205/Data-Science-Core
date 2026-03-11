@@ -62,10 +62,14 @@ NumPy is one of the most important libraries in the Python data science ecosyste
 
 ## Installation
 
+## Installation
+
 Install NumPy using pip:
 
-bash
+```bash
 pip install numpy
+```
+---
 ## How to Use / Clone the Repo
 
 ```bash
@@ -76,6 +80,7 @@ cd Data-Science-Core
 ## Prerequisites
 
 - Python 3.8+
+
 ---
 
 ## Repository Structure
@@ -86,8 +91,16 @@ cd Data-Science-Core
 ├── numpy_fundamentals.ipynb
 └── README.md
 ```
+---
+
 ## Author
 
 **Praveen**
 GitHub: (https://github.com/PRAVEEN221205)
 LinkedIn: www.linkedin.com/in/praveenkumarreddy-tippireddy-346223294
+
+---
+
+## Note
+
+This repository is part of my **Data Science learning journey**, and more NumPy examples will be added as I continue learning.
