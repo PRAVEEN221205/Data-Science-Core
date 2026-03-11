@@ -66,20 +66,28 @@ Install NumPy using pip:
 
 bash
 pip install numpy
-
 ## How to Use / Clone the Repo
+
+```bash
 git clone https://github.com/PRAVEEN221205/Data-Science-Core.git
 cd Data-Science-Core
+```
 ---
 ## Prerequisites
+
 - Python 3.8+
 ---
+
 ## Repository Structure
+
+```
 01_Numpy
 │
 ├── numpy_fundamentals.ipynb
 └── README.md
+```
 ## Author
-**Your Name**  
+
+**Praveen**
 GitHub: (https://github.com/PRAVEEN221205)
 LinkedIn: www.linkedin.com/in/praveenkumarreddy-tippireddy-346223294
